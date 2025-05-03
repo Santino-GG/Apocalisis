@@ -1,0 +1,17 @@
+{
+	id: "1f8cbd0f-e34f-3631-ad78-ab523f2938ae"
+	type: "player"
+	player_name: "Santix15"
+	ranks: {
+		1f8cbd0f-e34f-3631-ad78-ab523f2938ae: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Santix15"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF595C"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
